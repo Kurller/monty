@@ -4,7 +4,6 @@
 #include <stdlib.h>
 
 bus_t bus = {NULL, NULL, NULL, 0};
-
 /**
 * main - function for monty code interpreter
 * @argc: argument count
